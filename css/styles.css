@@ -1,0 +1,11 @@
+body {
+    font-family: 'Original Surfer', cursive;
+}
+
+.purple-500 {
+    background-color: #6200EE;
+}
+
+.container-fluid {
+    padding: 0 40px;
+}
